@@ -1,7 +1,139 @@
-La 1 HD,La 1 Super UHD 4k,https://upload.wikimedia.org/wikipedia/commons/d/d3/Nuevo_Logo_de_TVE_UHD_en_2022_%2B_2023_%2B_2024.png
-La 2,La 2 Super Full HD 8k
-A.and.E.(Mexico).(AandE).mx,MX | A&amp;E,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvr-HEzPT6Im-07iGS_JQGyMITM5DvbzcMrA&s
-Canal.TV.Azteca.Mundo.mx,MX | Canal TV Azteca
-AMC+.us,USA | AMC+,https://seeklogo.com/images/A/amc-plus-logo-5EBE4D087E-seeklogo.com.png
-Eleven Sports 1,Eleven Sports 1 Polonia
-Eleven Sports 2,Eleven Sports 2 Polonia
+Canal Hollywood HD,Hollywood.es
+Movistar Plus+ HD,Movistar.Plus.es
+M+ LaLiga HD,Movistar.LaLiga.es
+M+ LaLiga 2 HD,Movistar.LaLiga.2.es
+M+ LaLiga 3 HD,Movistar.LaLiga.3.es
+DAZN LaLiga HD,DAZN.LALIGA.es
+DAZN LaLiga 2 HD,DAZN.LALIGA.2.es
+M+ Liga de Campeones HD,Movistar.Liga.de.Campeones.es
+M+ Liga de Campeones 2 HD,Movistar.Liga.de.Campeones.2.es
+M+ Liga de Campeones 3 HD,Movistar.Liga.de.Campeones.3.es
+M+ Liga de Campeones 4,Movistar.Liga.de.Campeones.4.es
+M+ Deportes HD,Movistar.Deportes.es
+M+ Deportes 2 HD,Movistar.Deportes.2.es
+M+ Deportes 3,Movistar.Deportes.3.es
+DAZN 1 HD,DAZN.1.es
+DAZN 2 HD,DAZN.2.es
+DAZN 3 HD,DAZN.3.es
+M+ Vamos HD,Movistar.Vamos.es
+Eurosport 1 HD,Eurosport.es
+Eurosport 2,Eurosport.2.es
+LALIGA Inside,LaligaInside.es
+M+ Estrenos HD,Movistar.Estrenos.es
+M+ Hits HD,Movistar.Hits.es
+M+ Comedia HD,Movistar.Comedia.es
+M+ Acción HD,Movistar.Accion.es
+M+ Drama HD,Movistar.Drama.es
+M+ Terror,Movistar.Especial.1.es
+M+ Romance,Movistar.Especial.2.es
+M+ Indie HD,Movistar.Indie.es
+M+ Clásicos HD,Movistar.Clasicos.es
+M+ Cine Español,Movistar.Cine.Espanol.es
+M+ Documentales HD,Movistar.Documentales.es
+M+ Originales HD,Movistar.Originales.es
+Warner TV HD,Warner.es
+SyFy HD,SyFy.es
+XTRM,XTRM.es
+Sundance TV,Sundance.es
+TCM HD,TCM.es
+Dreamworks HD,Dreamworks.es
+Nick JR,Nick.JR.es
+Nickelodeon HD,Nickelodeon.es
+Somos Cine,Somos.es
+VinTV,VinTV.es
+DARK,Dark.es
+Dark Rojo,Dark.Rojo.es
+AXN HD,AXN.es
+AXN Movies HD,AXN.Movies.es
+AMC HD,AMC.es
+Calle 13 HD,Calle.13.es
+Cosmo HD,Cosmo.es
+Comedy Central HD,Comedy.Central.es
+Odisea,Odisea.es
+National Geographic HD,National.Geographic.es
+Nat Geo Wild HD,National.Geographic.Wild.es
+AMC Crime,Crime.es
+Discovery,Discovery.es
+Historia,Historia.es
+Primera Federación,Canal.1.1RFEF
+Primera Federación,Canal.2.1RFEF
+M+ Golf HD,Movistar.Golf.es
+LaLiga TV Hypermotion HD,LaLiga.Hypermotion.es
+LaLiga TV Hypermotion 2,LaLiga.Hypermotion.2.es
+LaLiga TV Hypermotion 3,LaLiga.Hypermotion.3.es
+NBA.TV.HD.us2,NBA.us
+Tennis Channel,Canal.Tenis.es
+DAZN F1 HD,DAZN.F1.es
+FR | beIN SPORTS 1,beIN.SPORTS.1.fr
+FR | beIN SPORTS 2,beIN.SPORTS.2.fr
+FR | beIN SPORTS 3,beIN.SPORTS.3.fr
+M+.Copa.del.rey.es,Movistar.Copa.del.Rey.es
+DAZN 2 BAR,DAZN.2.BAR.es
+DAZN 4 HD,DAZN.4.es
+GOL,GOL.PLAY.es
+M+ Liga de Campeones 5,Movistar.Liga.de.Campeones.5.es
+M+ Liga de Campeones 6,Movistar.Liga.de.Campeones.6.es
+M+ Liga de Campeones 7,Movistar.Liga.de.Campeones.7.es
+M+ Liga de Campeones 8,Movistar.Liga.de.Campeones.8.es
+M+ Liga de Campeones 9,Movistar.Liga.de.Campeones.9.es
+M+ Liga de Campeones 10,Movistar.Liga.de.Campeones.10.es
+M+ Liga de Campeones 11,Movistar.Liga.de.Campeones.11.es
+M+ Liga de Campeones 12,Movistar.Liga.de.Campeones.12.es
+M+ Liga de Campeones 13,Movistar.Liga.de.Campeones.13.es
+M+ Liga de Campeones 14,Movistar.Liga.de.Campeones.14.es
+M+ Liga de Campeones 15,Movistar.Liga.de.Campeones.15.es
+M+ Liga de Campeones 16,Movistar.Liga.de.Campeones.16.es
+M+ Liga de Campeones 17,Movistar.Liga.de.Campeones.17.es
+M+ LaLiga 4,Movistar.LaLiga.4.es
+M+ Ellas Vamos HD,Movistar.Ellas.Vamos.es
+M+ Golf 2 HD,Movistar.Golf.2.es
+Movistar Plus+ 2 HD,Movistar.Plus.2.es
+M+ Deportes 4,Movistar.Deportes.4.es
+M+ Deportes 5,Movistar.Deportes.5.es
+M+ Deportes 6,Movistar.Deportes.6.es
+M+ Deportes 7,Movistar.Deportes.7.es
+auto.motor.sport.ch,AutomotorSport
+beIN SPORTS XTRA ñ,beIN.SPORTS.XTRA.ñ
+UK | TNT Sports 1,TNT.Sports.1.uk
+UK | TNT Sports 2,TNT.Sports.2.uk
+UK | TNT Sports 3,TNT.Sports.3.uk
+DAZN.1.pt,DAZN.1.pt
+DAZN.2.pt,DAZN.2.pt
+DAZN.3.pt,DAZN.3.pt
+DAZN.4.pt,DAZN.4.pt
+DAZN.5.pt,DAZN.5.pt
+DAZN.6.pt,DAZN.6.pt
+Motorvision TV,Motors.TV
+UK | Premier Sports 1,Premier.Sports.1.uk
+UK | Sky Sport Arena,Sky.Sport.Arena.uk
+UK | Sky Sport Football,Sky.Sport.Football.uk
+UK | Sky Sport Main Event,Sky.Sport.Main.Event.uk
+Ziggo.Sport.nl,Ziggo.Sport.nl
+Ziggo.Sport.2.nl,Ziggo.Sport.2.nl
+Ziggo.Sport.6.nl,Ziggo.Sport.6.nl
+Mezzo,Mezzo.es
+Mezzo Live HD,Mezzo.Live.es
+Teledeporte,Teledeporte.es
+Esport3 Catalunya,Esport3.cat
+TV3CAT Catalunya,TV3.cat
+Aragón TV,Aragon.TV.es
+TVG Europa HD,TVG.Europa.gal
+TVG2,TVG.2.gal
+La 1 HD,LA1.es
+Gol Classics,GolClassics.es
+ESPN,ESPN.es
+ESPN,ESPN.us
+ESPN 2,ESPN.2.us
+ESPN.1.nl,ESPN.1.nl
+ESPN.2.nl,ESPN.2.nl
+ESPN.3.nl,ESPN.3.nl
+ESPN.4.nl,ESPN.4.nl
+ESPN Deportes,ESPN.Deportes.mx
+Canal.ESPN.(Argentina).ar,ESPN.ar
+Canal.ESPN.2.(Bolivia).ar,ESPN.2.ar
+Canal.ESPN.3.(Argentina).ar,ESPN.3.ar
+ESPN 4,ESPN.4.ar
+ESPN 5,ESPN.5.ar
+ESPN 6,ESPN.6.ar
+ESPN 7,ESPN.7.ar
+TUDN (México),TUDN.mx
