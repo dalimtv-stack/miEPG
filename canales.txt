@@ -34,7 +34,7 @@ M+ Originales HD,Movistar.Originales.es
 Warner TV HD,Warner.es
 SyFy HD,SyFy.es
 XTRM,XTRM.es
-Sundance TV,Sundance.es
+Sundance.Channel.es,Sundance.es
 TCM HD,TCM.es
 Dreamworks HD,Dreamworks.es
 Nick JR,Nick.JR.es
