@@ -39,7 +39,7 @@ TCM HD,TCM.es
 Dreamworks HD,Dreamworks.es
 Nick JR,Nick.JR.es
 Nickelodeon HD,Nickelodeon.es
-Somos Cine,Somos.es
+Somos,Somos.es
 VinTV,VinTV.es
 DARK,Dark.es
 Dark Rojo,Dark.Rojo.es
