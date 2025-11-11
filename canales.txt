@@ -24,7 +24,7 @@ M+ Hits HD,Movistar.Hits.es
 M+ Comedia HD,Movistar.Comedia.es
 M+ Acción HD,Movistar.Accion.es
 M+ Drama HD,Movistar.Drama.es
-M+ Terror,Movistar.Especial.1.es
+M+ Nicolas Cage,Movistar.Especial.1.es
 M+ Romance,Movistar.Especial.2.es
 M+ Indie HD,Movistar.Indie.es
 M+ Clásicos HD,Movistar.Clasicos.es
