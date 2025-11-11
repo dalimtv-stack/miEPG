@@ -1,4 +1,4 @@
-Canal Hollywood HD,Hollywood.es
+Canal Hollywood HD,Hollywood.es,,+2
 Movistar Plus+ HD,Movistar.Plus.es
 M+ LaLiga HD,Movistar.LaLiga.es
 M+ LaLiga 2 HD,Movistar.LaLiga.2.es
