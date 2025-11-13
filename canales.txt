@@ -25,7 +25,7 @@ M+ Comedia HD,Movistar.Comedia.es
 M+ Acción HD,Movistar.Accion.es
 M+ Drama HD,Movistar.Drama.es
 M+ Nicolas Cage,Movistar.Especial.1.es
-M+ Romance,Movistar.Especial.2.es
+M+ En juego,Movistar.Especial.2.es
 M+ Indie HD,Movistar.Indie.es
 M+ Clásicos HD,Movistar.Clasicos.es
 M+ Cine Español,Movistar.Cine.Espanol.es
@@ -41,11 +41,13 @@ Nick JR,Nick.JR.es
 Nickelodeon HD,Nickelodeon.es
 Somos,Somos.es
 VinTV,VinTV.es
+BOM Cine,BOM.cine.es
 DARK,Dark.es
 Dark Rojo,Dark.Rojo.es
 AXN HD,AXN.es
 AXN Movies HD,AXN.Movies.es
 AMC HD,AMC.es
+AMC Break,AMC.Break.es
 Calle 13 HD,Calle.13.es
 Cosmo HD,Cosmo.es
 Comedy Central HD,Comedy.Central.es
